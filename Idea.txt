@@ -1,3 +1,5 @@
 Sistema que permita a las personas tener un registro de los medicamentos y horario que deben ingerir.
 
 El sistema debe recordar a los usuarios cuándo deben ingerir los medicamentos y avisar cuando los mismos estén por terminarse.
+
+El sistema debe actualizarse.
